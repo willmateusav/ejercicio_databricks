@@ -1,0 +1,172 @@
+﻿IdPlataformaAplicacion;TipoIdentificacion;NumeroIdentificacion;Edad;Hijos;EdadHijos;EdadBeneficiarios;AntiguedadAnios;CountSMLV;FechaIngresoEmpresa;Genero;TipoContrato;NivelCargo;CiudadLabora;TamanioFamilia;TipoFamilia;PersonaMayor;Gestante;TieneMascota;TiposMascotas;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;categoriaAfiliacion;Discapacidad;afiliacionCajaCompensacion;afiliacionPbsCompensar;afiliacionPcCompensar;beneficiarioPbsCompensar;beneficiarioPcCompensar;TipoRemuneracion;GruposAplica;IdEmpresaPlataforma;nit;ProcesarMotor
+c630367f-ed63-8bbe-e0a5-fe7c7a653fe7;CC;40760303;63;False;;;28;2;1996-09-16;Femenino;fijo;tecnico;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1000043;899999061DA004;1
+7a46cab4-51c9-cf24-3d96-ab6f25b49c6d;CC;14253776;43;True;11;11,35;3;4;2022-05-26;Masculino;indefinido;profesional;Bogota;5;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;False;1;860066942;1
+e3f822e8-c12a-ce56-1929-1ef9715793eb;CC;1019041052;35;False;;;6;1;2019-06-20;Masculino;indefinido;operativo;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;B;No;Si;No;No;No;No;Variable;False;195524;800249704;1
+9e9be234-8100-a32b-9a31-63b908496617;CC;71626721;62;False;;;37;2;1987-10-01;Masculino;indefinido;operativo;Medellin;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;D;No;No;No;No;No;No;Fijo;False;195502;860010973;1
+9606b551-676c-d473-7328-2ee6f856b944;CC;1030594540;34;True;12;12,51,57;3;2;2021-11-08;Femenino;indefinido;profesional;Bogota;3;Extensas;True;No;True;Gato,Perro;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;True;1;860066942;1
+5cbd169f-90fc-2be4-88e5-a1d7aa28fc2c;CC;1053611472;31;False;;;3;0;2021-08-09;Masculino;indefinido;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Variable;False;1;860066942;1
+59dfc484-e08f-ea1d-503b-83ebfb499491;CC;1070623272;27;True;;27;5;0;2020-01-02;Femenino;indefinido;profesional;Bogota;3;Parejas sin hijos;False;No;True;Perro;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;C;No;Si;No;No;No;No;Fijo;True;155177;901033366;1
+56fd134f6bb28ef95de6a;CC;1100544605;36;False;;;6;2;2019-01-24;Femenino;indefinido;tecnico;Barranquilla;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;True;1;860066942;1
+9999803441307835;CC;1083838429;37;True;8,14;8,14,37;0;1;2025-01-27;Femenino;fijo;operativo;Bogota;4;Nucleares;False;No;True;Perro;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+9999805064716830;CC;1033758348;33;True;6,9;6,9;0;1;2025-01-25;Femenino;obra o labor;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;False;1;860066942;1
+9999805064108869;CC;1024587597;27;True;;18,27;8;2;2017-07-10;Masculino;indefinido;tecnico;Bogota;2;Parejas sin hijos;False;No;False;;No;No;No;A;No;Si;Si;No;No;No;Fijo;True;1;860066942;1
+9999805066440667;CC;1023007780;29;True;4,10;4,10,29,50;7;3;2017-07-17;Masculino;indefinido;profesional;Bogota;5;Extensas;False;No;False;;No;No;No;B;No;Si;Si;No;Si;Si;Fijo;True;1;860066942;1
+9999803460461917;CC;1022399530;30;True;;64,67;5;3;2019-07-15;Femenino;indefinido;gerencial;Bogota;1;Unipersonales;False;No;True;Gato;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+9999803457761976;CC;1016053718;32;True;;26,34,54;10;4;2015-06-01;Femenino;indefinido;profesional;Bogota;1;Unipersonales;False;No;True;Gato;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+6282017537840881;CC;1012331684;38;True;8;8,59,62;5;4;2020-03-02;Femenino;indefinido;profesional;Bogota;2;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+9999803439793331;CC;80757941;41;True;15;15,62,66;13;0;2011-10-03;Masculino;indefinido;profesional;Bogota;5;Extensas;True;No;True;Gato;No;No;No;A;No;Si;Si;Si;Si;Si;Variable;True;1;860066942;1
+9999803435862620;CC;53055583;40;True;14,17;14,17,46,64;18;3;2007-03-15;Femenino;indefinido;profesional;Bogota;4;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;No;Si;No;Fijo;True;1;860066942;1
+6245823344624391;CC;52858676;43;True;21;21,47,64;14;0;2011-04-01;Femenino;indefinido;tecnico;Bogota;9;Extensas;True;No;True;Perro;RiesgoCardiovascular;RiesgoOsteomuscular;No;A;No;Si;Si;Si;Si;Si;Variable;True;1;860066942;1
+9999803435344904;CC;52831524;44;True;12;12,39,62,69;10;4;2015-04-06;Femenino;indefinido;profesional;Bogota;4;Extensas;True;No;False;;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;True;1;860066942;1
+9999803434648559;CC;52474117;47;True;17,27;17,27,49,81,82;19;2;2005-11-01;Femenino;indefinido;tecnico;Bogota;4;Nucleares;False;No;False;;No;No;No;A;No;Si;Si;Si;Si;Si;Fijo;True;1;860066942;1
+9999803434072184;CC;52230552;48;True;13,22;13,22,27;17;2;2008-05-15;Femenino;indefinido;tecnico;Bogota;3;Extensas;False;No;False;;RiesgoCardiovascular;No;No;A;No;Si;Si;Si;Si;Si;Fijo;True;1;860066942;1
+9999803431795607;CC;39576785;45;True;3,16;3,16,47,65;11;5;2013-11-05;Femenino;indefinido;gerencial;Bogota;4;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;True;1;860066942;1
+9999803431382260;CC;35393798;43;True;2,16;2,16,66;0;2;2025-03-05;Femenino;fijo;profesional;Bogota;5;Extensas;True;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+9999803430584210;CC;20634022;57;True;22,32;22,32,59,78;19;2;2006-07-06;Femenino;indefinido;tecnico;Bogota;5;Nucleares;True;No;True;Gato,Perro;No;No;No;A;No;Si;Si;No;Si;No;Fijo;True;1;860066942;1
+9999805063384302;CE;353871;42;True;6,8;6,8,48,76,77;12;0;2012-09-18;Femenino;indefinido;profesional;Bogota;5;Nucleares;False;No;False;;No;No;No;A;No;Si;Si;Si;Si;Si;Variable;False;1;860066942;1
+9999805068647509;CC;1121333949;31;False;;;;0;;Masculino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;No;No;No;No;;True;999999;8888;1
+9162bac4-c1d9-fd3f-ef17-0022c5aa7862;CC;80407525;60;False;;;;0;;Masculino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;False;999999;8888;1
+1aa24a0f-4419-4fc2-a5e9-a1ef5ec224ac;CC;79278233;62;True;;61;40;2;1984-12-12;Masculino;fijo;operativo;Bogota;2;Parejas sin hijos;True;No;False;;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;False;1000742;900127768;1
+bef2d55e-35a9-4fb2-9c36-f7edf311a078;CC;39618629;57;False;;;35;0;1990-07-01;Femenino;indefinido;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;1000327;830040256;1
+9999803459790278;CC;1032403216;37;True;2,7;2,7;;0;;Femenino;;;Bogota;3;Monoparental;False;No;False;;No;No;No;A;No;Si;Si;Si;No;No;;True;999999;8888;1
+9999805067638737;CC;1018420188;36;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;True;999999;8888;1
+0a75d84a-dab4-4118-96fb-d0227513e768;CC;1002321250;31;True;9,11,13,14;9,11,13,14;0;1;2025-01-25;Femenino;obra o labor;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+966d61a6-2a7b-451d-b804-c3040007a237;CC;1119511066;33;True;12,14,16;12,14,16,41;0;1;2025-01-25;Femenino;obra o labor;operativo;Bogota;3;Parejas sin hijos;False;No;True;Perro;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+9999805064124350;CC;1022380347;32;False;;;;0;;Femenino;;;Mosquera;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;True;999999;8888;1
+442eb4bc-ccd4-45d4-a09f-c0aed5088460;CC;80724809;43;True;10;10;17;0;2008-07-01;Masculino;indefinido;profesional;Bogota;2;Monoparental;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;C;No;Si;No;No;No;No;Fijo;False;1000613;830126302;1
+9999803437069208;CC;79395786;58;True;15,26;15,26,53;;0;;Masculino;;;Chia;3;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;Si;Si;No;;True;999999;8888;1
+38fd9af7-e419-4122-9a06-e43e28fd47b1;CC;93061025;43;True;8,15,19;8,15,19,43;17;1;2007-11-26;Masculino;fijo;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;True;1000720;899999061DA0019;1
+ee163c4a-90fc-496c-90dd-b00bedba3c51;CC;52336625;48;True;17,21;17,21,48;12;3;2013-03-18;Femenino;fijo;profesional;Bogota;9;Nucleares;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000687;830063506;1
+d1f0b1d8-e613-45fd-bca3-964456734862;CC;3129232;56;True;;52;32;3;1992-09-07;Masculino;fijo;profesional;Bogota;2;Parejas sin hijos;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+c47f7f6a-92cf-4c92-a93d-a6b502caee4c;CC;19461019;63;False;;;44;2;1981-04-03;Masculino;fijo;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+cdd9331b-b6f4-43ce-a50d-c449402ebf46;CC;51837120;58;False;;;32;3;1993-02-08;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+062db894-0a00-45ae-9bc8-4fac0170ce6b;CC;51874666;57;True;24;24,55,90;26;3;1999-03-01;Femenino;fijo;profesional;Bogota;2;Parejas sin hijos;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+6607a5bb-aa9a-4af6-86b0-ec8cd5e48ed6;CC;52547077;45;True;19;19,44;2;2;2022-10-14;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;Si;No;No;No;Fijo;True;1000043;899999061DA004;1
+898f983a-3c7c-470f-9014-4780e6a3631a;CC;80061004;46;True;1,4;1,4,66,71;18;3;2007-01-19;Masculino;fijo;profesional;Bogota;4;Extensas;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+51f8640e-debb-4977-af9a-7a496bb04de6;CC;80851221;40;False;;;9;2;2015-08-03;Masculino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+b258e667-a8bb-4a70-ae01-7a2192c8f92f;CC;53120522;40;True;;47,67;3;2;2022-01-11;Femenino;fijo;profesional;Bogota;5;Extensas;True;No;True;Gato,Perro;No;No;No;C;No;Si;No;No;No;No;Fijo;True;1000715;899999061DA0014;1
+f96a3beb-82a1-4740-b8dc-7e3ca4e80646;CC;41710355;66;True;;74;12;2;2013-06-04;Femenino;fijo;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;1000730;899999081;1
+64083ea8-61f6-465b-8eb0-9a9a7e7ea8b0;CC;3180556;62;True;;63;39;3;1985-08-01;Masculino;fijo;operativo;Bogota;2;Parejas sin hijos;True;No;False;;No;No;No;C;No;Si;No;Si;No;No;Fijo;False;1000731;899999094;1
+26fa5847-d358-4ab1-805a-b697f32be5ea;CC;11257021;43;True;12,19;12,19,36;4;2;2021-01-18;Masculino;fijo;operativo;Bogota;4;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;Si;Si;No;Fijo;False;1000731;899999094;1
+b37a370d-6a29-4e76-a978-bf1030260330;CC;79536771;54;True;;55;4;2;2021-06-10;Masculino;fijo;tecnico;Bogota;2;Parejas sin hijos;False;No;False;;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;False;1000731;899999094;1
+33eca6ca-eeff-4e3e-a725-732dd2d000a0;CC;79546369;54;True;19;19,51,78;18;2;2007-06-27;Masculino;fijo;tecnico;Bogota;3;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;False;1000731;899999094;1
+7fa6a1be-3098-4bb6-9a09-02e0570cd398;CC;52173837;51;True;18;18,49;22;2;2002-12-10;Femenino;fijo;operativo;Bogota;3;Nucleares;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1000761;900958564;1
+6c6efed9-547c-41be-908f-c3a68ad60b9e;CC;1073710419;28;False;;;2;1;2023-03-27;Masculino;fijo;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;Si;No;No;No;Fijo;False;1000745;900298372;1
+637fc83d-add9-4dd9-b8b3-daa147a3c266;CC;1052072846;37;True;11;11,65;4;2;2020-11-20;Femenino;fijo;operativo;Bogota;3;Extensas;True;No;False;;No;No;No;B;No;Si;Si;No;No;No;Fijo;True;1000762;900959048;1
+81947010-4f45-4e46-8ea8-c8dfb1be7f3f;CC;79643375;52;True;13,22,23;13,22,23,51,74;17;2;2007-08-02;Masculino;fijo;profesional;Bogota;3;Monoparental;False;No;False;;No;No;No;B;No;Si;Si;No;Si;No;Fijo;True;1000763;900959051;1
+a700522c-efde-4914-81ce-1bd4a888dafd;CC;1012359452;35;True;11,17;11,17,38;3;2;2021-11-12;Femenino;fijo;tecnico;Bogota;9;Nucleares;False;No;True;Perro;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1001118;901508361;1
+52eb3965-974b-40dd-a9ad-f74798c35316;CC;12144357;51;True;7;7,43;2;1;2023-03-06;Masculino;fijo;operativo;Bogota;3;Nucleares;False;No;False;;No;No;No;A;No;Si;Si;No;Si;No;Fijo;False;1001340;860025353;1
+e32b74d0-2339-4b57-8f4c-ea03b129ef54;CC;23449395;52;True;22;22,72,81;18;3;2007-01-19;Femenino;fijo;profesional;Bogota;2;Extensas;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+73d58663-4c17-491e-b6c3-33bcee1fab01;CC;51618718;64;False;;;2;2;2022-12-12;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+81b04b84-130e-4dfd-8b39-95776b49d801;CC;51655514;67;False;;;19;2;2006-01-25;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+65cbfb6f-63d6-4eb8-b885-c3fac96c2b9c;CC;51712703;61;True;;69;21;3;2003-08-01;Femenino;fijo;profesional;Bogota;2;Parejas sin hijos;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+5dc45f78-7ff1-4876-9a65-7b0c87b9548f;CC;52207977;51;True;22;22;2;2;2023-01-01;Femenino;fijo;profesional;Bogota;2;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+6a8e1ab2-6701-47ff-8286-664d1bd66f0f;CC;52475427;47;True;6;6,73;16;3;2008-09-25;Femenino;fijo;profesional;Bogota;2;Monoparental;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+0a0447ed-96cb-43bb-a9e6-b30754b625ae;CC;53027885;41;True;11;11;13;2;2012-02-20;Femenino;fijo;profesional;Bogota;3;Monoparental;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+3de837e7-b185-4e47-b16d-e92b10b317e3;CC;53064006;42;False;;;9;2;2015-08-03;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+a57c8996-9b19-47d9-b072-6c17ead6f790;CC;65752941;53;True;22;22,53,75;2;2;2023-03-16;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+107549ad-1d5f-478c-9c26-15d3d78a222c;CC;79398398;58;False;;;27;3;1998-01-28;Masculino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+161a323d-2762-4b3b-a90b-772c24255d49;CC;79735083;51;True;22;22,49,79;24;3;2001-04-19;Masculino;fijo;profesional;Bogota;3;Extensas;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+b23a291c-609b-4ab8-a376-9a910cbcd89b;CC;1010199470;33;False;;;4;2;2021-02-17;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;Si;No;No;No;Fijo;False;1000043;899999061DA004;1
+b1feaf9c-74b5-4832-8919-ce71a9eb94f5;CC;1015456510;29;True;;67;3;2;2021-08-20;Femenino;fijo;tecnico;Bogota;2;Extensas;True;No;False;;No;No;No;B;No;Si;Si;No;No;No;Fijo;False;1000727;899999061DA008;1
+a84fd557-61ac-4450-85f2-2ca0ad3b09bc;CC;1024495693;35;True;7;7,58;10;2;2015-03-25;Femenino;fijo;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1000727;899999061DA008;1
+9999805071005157;CC;1124412824;29;True;3,10;3,10;;0;;Masculino;;;Bogota;3;Monoparental;False;No;False;;No;No;No;A;No;Si;Si;No;Si;No;;True;999999;8888;1
+9999805064813996;CC;1136884626;32;True;;67;1;3;2023-08-01;Femenino;indefinido;profesional;Bogota;3;Extensas;True;No;True;Gato,Perro;No;No;No;B;No;Si;Si;No;No;No;Fijo;True;1;860066942;1
+9999805063734417;CC;1032452338;32;True;7;7,31;;0;;Femenino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;;False;999999;8888;1
+6667000020115550;CC;52969731;43;True;16,24;16,24,71,72;;0;;Femenino;;;Bogota;4;Extensas;True;No;False;;No;No;No;A;No;Si;Si;No;Si;No;;True;999999;8888;1
+6238833134578851;CC;1014288839;28;True;3,17;3,10,17,23,39,54;;0;;Femenino;;;Bogota;4;Nucleares;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;True;999999;8888;1
+3a396ae5-bbf2-48f4-b266-19dad343cd4e;CC;39636423;49;False;;;28;2;1997-04-21;Femenino;indefinido;tecnico;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;A;No;Si;Si;No;No;No;Fijo;False;1003948;899999296;1
+203e962e-dad6-40dd-b54f-a321e5abfac1;CC;79990475;27;True;10,16;10,16;2;1;2023-01-27;Masculino;indefinido;tecnico;Bogota;3;Monoparental;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;A;No;Si;Si;No;No;No;Fijo;False;1003948;899999296;1
+ca703ec8-835e-4685-ba5e-90e1f3e854fd;CC;24197707;55;True;14,16;14,16,49,78,90;14;2;2010-08-03;Femenino;fijo;profesional;Bogota;6;Extensas;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+cd096833-4e7c-4ba9-94ef-b1c6d4fe2a92;CC;40025430;59;True;;82;19;3;2005-08-02;Femenino;fijo;profesional;Bogota;2;Extensas;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+c1477158-eb9d-44f8-80c9-ae51e1b1112b;CC;51567723;67;True;;68;32;3;1992-09-25;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+30f2a386-acbc-4d1f-b19f-adf9eaa6d625;CC;52298830;50;True;23;23,72;13;3;2012-02-18;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+57ece87c-dbea-4d63-a512-fbb097567ddf;CC;79132037;56;True;18;18,48;26;2;1999-07-01;Masculino;fijo;profesional;Bogota;3;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;Si;Si;Si;Fijo;True;1000711;899999061DA0010;1
+944a92e8-eafe-4bed-beeb-29eb634b256f;CC;1000621195;23;False;;;0;1;2025-01-25;Masculino;obra o labor;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+55365549-fc4a-4846-a120-60223213ad85;CC;1024501797;35;True;7,18;7,18,33,64;0;1;2025-01-25;Femenino;obra o labor;operativo;Bogota;7;Extensas;True;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+6900a7d3-f88d-4de4-bd7e-fae22bd56e76;CC;1014245784;31;True;10;10,68;6;2;2018-09-20;Femenino;indefinido;profesional;Bogota;2;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1006770;901018619;1
+9999805064526109;CC;1018496120;27;True;;29;2;1;2023-07-10;Masculino;indefinido;tecnico;Bogota;3;Parejas sin hijos;False;No;False;;No;No;RiesgoPsicosocial;A;No;Si;No;No;No;No;Fijo;False;1006866;900021547;1
+af67fd9c-e10d-4c98-aa7f-af7e49b5657a;CC;80230996;44;False;;;2;1;2023-02-01;Masculino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;False;1000732;899999230;1
+2f674360-d103-4d20-b8f5-faf0886ac922;CC;41773676;68;True;;71,93;37;3;1988-01-18;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+38648011-fda1-40fb-864f-a129dffbe473;CC;53012073;41;True;3,15,22;3,15,22,47;2;2;2022-12-12;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1000043;899999061DA004;1
+c7575b3b-9a78-48ec-a96d-f6a98a13cabe;CC;79601888;52;True;18,20;18,20,53;9;2;2015-08-03;Masculino;fijo;profesional;Bogota;5;Nucleares;False;No;True;Perro;No;No;No;C;No;Si;No;No;No;No;Fijo;True;1000043;899999061DA004;1
+952a4f26-f809-485e-acb7-ab04a33fdc20;CC;80210622;41;False;;;7;2;2018-05-18;Masculino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+7d419f23-1483-4e95-a662-53b800dc189f;CC;80904333;39;False;;;15;2;2010-07-09;Masculino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000043;899999061DA004;1
+9999805065211678;CC;53153518;39;True;17,19;17,19,48;;0;;Femenino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;B;No;Si;Si;No;Si;No;;True;999999;8888;1
+9999805064828760;CC;1032461759;31;True;;12;;0;;Masculino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999805064090697;CC;45555894;44;True;12;12;;0;;Femenino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;True;999999;8888;1
+9999803439966842;CC;80844418;40;True;2;2,33;;0;;Masculino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;False;999999;8888;1
+9e731962-8d57-40ab-afb5-11ac92a5715a;CC;1012335945;37;True;1,16;1,16,42;0;0;2024-08-15;Femenino;indefinido;profesional;Bogota;4;Nucleares;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;False;1004921;860071250;1
+3f221c22-f9fd-4cab-b0f7-2ee178b474d0;CC;1018497056;27;True;;26,61,62;2;2;2023-06-05;Femenino;indefinido;profesional;Bogota;8;Extensas;True;No;True;Perro;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;B;No;Si;Si;Si;No;No;Fijo;True;1004921;860071250;1
+9999805070128490;CC;1057604012;27;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999803469056664;CC;80858315;40;True;;40,72,77;;0;;Masculino;;;Bogota;3;Extensas;True;No;False;;No;No;No;A;No;Si;Si;No;No;No;;True;999999;8888;1
+86e2362a-ab7b-d64b-1bf1-b7ed05aaa563;CC;53167599;40;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;False;999999;8888;1
+6238828258688461;CC;1032386429;38;True;12;12,39;8;2;2017-06-06;Femenino;indefinido;tecnico;Bogota;4;Extensas;False;No;True;Gato;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1006458;900348611DA001;1
+9999803467498301;CC;1030644405;30;True;6,13;6,13;7;1;2018-07-03;Femenino;indefinido;tecnico;Bogota;4;Monoparental;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;False;1006458;900348611DA001;1
+57eae605-8f8e-4f39-872f-96231a7201ca;CC;1014271776;29;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;Si;No;No;No;;True;999999;8888;1
+839d3997-1c1d-4e35-9ee3-1c4232cc7e6f;CC;1001188423;21;False;;;2;1;2023-02-20;Femenino;indefinido;operativo;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;A;No;Si;No;No;No;No;Fijo;True;68465;900174552;1
+9999803463351603;CC;1010247339;25;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;No;No;No;No;;False;999999;8888;1
+044019d8-b988-e36b-b6bc-655deb189b5d;CC;1020820726;28;True;;40,65;;0;;Masculino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;True;999999;8888;1
+9999803434469176;CC;52392957;47;True;20,27;20,27,48,68;;0;;Femenino;;;Bogota;2;Parejas sin hijos;False;No;False;;No;No;No;C;No;Si;Si;Si;Si;No;;True;999999;8888;1
+9999803435572315;CC;52917688;40;True;10;10;6;3;2018-10-17;Femenino;indefinido;tecnico;Bogota;2;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;True;1006458;900348611DA001;1
+9999803462900176;CC;1018422558;36;True;15;15,49,60;;0;;Femenino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;B;No;Si;No;No;No;No;;True;999999;8888;1
+34680985-e891-4153-a672-67c7525b7a71;CC;79297099;;True;;64,85;-2891;4;;Masculino;fijo;directivo;Bogota;3;Extensas;True;No;False;;No;No;No;C;No;Si;No;Si;No;Si;Fijo;False;1007268;901441856;1
+4cd759e5-725c-48a1-aca1-31ea7d58b133;CC;1077920651;32;True;;58;1;2;2024-04-15;Femenino;fijo;tecnico;Bogota;2;Extensas;True;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;False;1006458;900348611DA001;1
+0b6e0936-4b20-4ca6-af5b-b5ed5df0ddf9;CC;52467554;45;True;6;6;4;2;2020-08-24;Femenino;indefinido;profesional;Bogota;2;Monoparental;False;No;False;;No;RiesgoOsteomuscular;RiesgoPsicosocial;B;No;Si;No;No;No;No;Fijo;False;1007280;901060053;1
+ec9ee6c3-68cb-4dc1-9504-1a970ef01111;CC;1031157590;30;False;;;8;2;2017-06-09;Femenino;indefinido;operativo;Soacha;1;Unipersonales;False;No;False;;No;RiesgoOsteomuscular;RiesgoPsicosocial;A;No;Si;No;No;No;No;Fijo;False;1007281;860005921;1
+3c8f1b7d-86ff-4403-bc16-745b23f20d58;CC;1015459859;29;False;;;1;1;2024-04-16;Masculino;indefinido;tecnico;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;98858;900509172;1
+df6819f8-73d9-4145-9e1b-4e7644da9695;CC;1016024061;32;True;11,14;11,14,58;1;1;2024-02-12;Femenino;fijo;directivo;Bogota;6;Extensas;True;No;False;;No;No;No;A;No;Si;No;No;No;No;Variable;False;155177;901033366;1
+1fafa65f-b41b-40d8-9888-1eb9e2234302;CC;1014258683;31;True;2;2,31;2;2;2023-04-03;Masculino;indefinido;profesional;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;B;No;Si;No;No;No;No;Fijo;False;1007284;900192835;1
+9999805069859860;CC;1073175666;27;True;0;0,31;;0;;Femenino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;True;999999;8888;1
+9999803435022478;CC;52712470;44;True;22;22,45;;0;;Femenino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;C;No;Si;Si;No;Si;No;;False;999999;8888;1
+9999803460605537;CC;41696956;70;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;Si;Si;No;No;;True;999999;8888;1
+9999803462191826;CC;1026260537;37;True;3;3;;0;;Masculino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+cbf27a1f-4db2-4c7c-a6cc-cd33015b5b0f;CC;53037905;41;True;10;10;1;0;2024-07-04;Femenino;indefinido;profesional;Bogota;2;Monoparental;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;C;No;Si;No;No;No;No;Fijo;True;1000613;830126302;1
+9999805063659950;CC;1020739623;36;False;;;;0;;Masculino;;;;1;Unipersonales;False;No;False;;No;No;No;D;No;Si;No;No;No;No;;True;999999;8888;1
+dbda7f6a-1a55-416b-a9a6-f7a1d31606cc;CC;51713030;61;False;;;6;1;2019-07-01;Femenino;fijo;operativo;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;D;No;No;No;No;No;No;Fijo;False;1007301;900393177;1
+9999803435240701;CC;52795431;43;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;False;999999;8888;1
+696cfc8d-6399-4a3a-a09a-572e7dc52de6;CC;1015401241;37;True;1;1,42,64,67;;0;;Masculino;;;Bogota;5;Extensas;True;No;False;;No;No;No;C;No;Si;Si;No;Si;No;;False;999999;8888;1
+9999803440795248;CC;1022322749;39;True;1,15;1,15,36,58;;0;;Masculino;;;Bogota;5;Extensas;True;No;False;;No;No;No;B;No;Si;Si;No;Si;No;;False;999999;8888;1
+85826dc5-f147-4e6a-81f2-6126ac69259f;CC;79574839;53;True;10,13;10,13,39;;0;;Masculino;;;Bogota;4;Nucleares;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;False;999999;8888;1
+f0c8f104-2404-4ed1-b662-1ff4b56d0de1;CC;80259576;41;True;1;1,37;3;2;2022-07-08;Masculino;indefinido;tecnico;Bogota;3;Nucleares;False;Si;False;;RiesgoCardiovascular;RiesgoOsteomuscular;No;B;No;Si;No;No;No;No;Fijo;False;63931;899999118;1
+af37fdc6-8900-4448-9cd8-ec1e30723647;CC;1001171915;25;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+1a188a15-d7c7-4e4d-8404-e9bce3e427d7;CC;80199051;41;False;;;13;0;2012-02-01;Masculino;obra o labor;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;False;1007303;899999059;1
+1d765660-a8ba-4c29-bdb0-f4316235ff3f;CC;1053609990;32;False;;;5;6;2019-12-02;Femenino;fijo;profesional;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;D;No;No;No;No;No;No;Variable;False;1007311;900505060;1
+9999805070252806;CC;1005627359;24;True;3,5;3,5;;0;;Femenino;;;Bogota;3;Monoparental;False;No;False;;No;No;No;B;No;Si;Si;No;No;No;;False;999999;8888;1
+110d3fd0-521f-44f2-802f-96a5e52bd381;CC;1232397392;32;False;;;;0;;Masculino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999803438629549;CC;80014446;44;True;11,18;11,18,40;;0;;Masculino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+6241001337753541;CC;1026258563;37;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;Si;No;Si;No;;False;999999;8888;1
+d929f07b-bf39-4623-b5fe-e261103ad856;CC;1002603812;26;False;;;0;2;2024-08-22;Femenino;fijo;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;Si;No;No;No;Fijo;True;1007304;800195397;1
+76232373-593e-4988-9c30-f5a5b2384367;CC;1002426483;27;False;;;1;1;2024-02-09;Femenino;obra o labor;operativo;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;A;No;Si;No;No;No;No;Fijo;False;41923;800068462;1
+9999805068824220;CC;52239026;48;True;18,23;18,23,54,60,62;7;4;2017-12-29;Femenino;indefinido;profesional;Bogota;11;Extensas;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;True;194660;899999027;1
+6201111757812751;CC;1016033782;34;True;8,12;8,12,45;;0;;Femenino;;;Bogota;3;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;;True;999999;8888;1
+d2f829b7-fa77-5ae4-566b-1306e1b805cd;CC;2995928;37;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+67639e8d-2aa0-421a-8db7-214b8912887d;CC;1014214946;34;True;5,10;5,10,33;;0;;Masculino;;;;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;D;No;Si;No;No;No;No;;False;999999;8888;1
+9999805064751891;CC;1010227778;29;True;9;9;;0;;Femenino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+ddc7d705-71f2-413b-980b-025239fa2799;CC;1023039118;25;False;;;3;0;2022-05-23;Masculino;indefinido;profesional;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;B;No;Si;No;No;No;No;Fijo;False;1007316;860068182;1
+9999805069166609;CC;1023027732;27;True;3;3;;0;;Masculino;;;;1;Unipersonales;False;No;False;;No;No;No;D;No;Si;No;No;No;No;;False;999999;8888;1
+9999805068852612;CC;1001092787;27;True;5;5;;0;;Femenino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999803466535573;CC;1023943340;30;True;10;10;;0;;Femenino;;;;1;Unipersonales;False;No;False;;No;No;No;D;No;Si;No;No;No;No;;False;999999;8888;1
+9999805063381473;CC;1074417171;32;True;10;10,38,61;;0;;Femenino;;;Bogota;4;Extensas;True;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999803435695324;CC;52979298;41;True;13,19;13,19;;0;;Femenino;;;Bogota;3;Monoparental;False;No;False;;No;No;No;B;No;Si;Si;No;Si;No;;False;999999;8888;1
+9999805064454270;CC;1067930351;31;True;3,8,11;3,8,11;;0;;Masculino;;;Facatativa;4;Monoparental;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999803458052241;CC;1012454536;27;True;7;7;;0;;Femenino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;A;No;Si;Si;No;No;No;;True;999999;8888;1
+9999805066567605;CC;1001171514;32;True;7,14;7,14,35;;0;;Masculino;;;Bogota;4;Nucleares;False;No;False;;No;No;No;A;No;Si;Si;No;No;No;;False;999999;8888;1
+9999803462476085;CC;1030533823;38;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;True;999999;8888;1
+4c93c8d1-5ca1-4730-911a-89bf247aea76;CC;19427008;64;True;9,14,17;9,14,17;;3;;Masculino;fijo;tecnico;Bogota;4;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;Fijo;False;1000713;899999061DA0012;1
+9999805072059217;CC;1048224085;26;True;2;2,23;;0;;Masculino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999805066997220;CC;1070984953;27;False;;;;0;;Femenino;;;Facatativa;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;True;999999;8888;1
+9999805066920346;CC;1013685474;26;True;6,9;6,9;;0;;Femenino;;;Bogota;3;Monoparental;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+9999805072501486;CC;1018481221;30;False;;;0;1;2025-01-05;Masculino;indefinido;profesional;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;C;No;Si;No;No;No;No;Fijo;False;1004647;900200049;1
+544b8d4d-0948-49a5-a5ce-757d74110926;CC;1050278274;20;False;;;0;1;2025-01-28;Femenino;obra o labor;operativo;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;True;1;860066942;1
+6c4ba038-2600-4d55-8d1a-290732c6f3fc;CC;1072638223;21;False;;;0;1;2024-11-16;Masculino;indefinido;tecnico;Bogota;1;Unipersonales;False;No;False;;No;No;No;A;No;Si;No;No;No;No;Fijo;False;1007278;900158685;1
+d2c06866-19c5-4e61-9eb9-5b8df93ebf48;CC;79269477;62;True;27;27,59;1;4;2023-09-08;Femenino;fijo;profesional;Bogota;4;Nucleares;True;No;False;;No;No;No;C;No;Si;No;No;No;No;Fijo;False;1000713;899999061DA0012;1
+9999805064043131;CC;1016048962;32;True;9;9;;0;;Masculino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;B;No;Si;No;No;No;No;;False;999999;8888;1
+9999803435547138;CC;52908721;42;True;8,9,15;8,9,15;;0;;Femenino;;;Bogota;4;Monoparental;False;No;False;;No;No;No;A;No;Si;Si;Si;No;No;;True;999999;8888;1
+0aa1a270-5e29-49f7-883f-923d6b9f3c54;CC;79698454;51;True;23;23;;0;;Masculino;;;Bogota;2;Monoparental;False;No;False;;No;No;No;A;No;Si;Si;No;Si;No;;False;999999;8888;1
+e8552173-a100-47c2-b99d-78258965ab2c;CC;1016085928;29;False;;;;0;;Masculino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;B;No;Si;No;No;No;No;;False;999999;8888;1
+d36d57e7-a0f1-42e4-80c1-8a86415847f0;CC;1061787782;29;False;;;;0;;Masculino;;;Bogota;1;Unipersonales;False;No;False;;No;No;No;C;No;Si;No;No;No;No;;False;999999;8888;1
+faac53a5-e614-494b-9772-d6cc823c6e00;CC;1068809717;38;True;4,10,14;4,10,14,32;;0;;Masculino;;;Soacha;5;Nucleares;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
+f7a1866f-e3af-4945-aea7-0eea0d2e3f86;CC;51776139;60;False;;;;0;;Femenino;;;Bogota;1;Unipersonales;False;No;False;;RiesgoCardiovascular;RiesgoOsteomuscular;RiesgoPsicosocial;A;No;Si;No;No;No;No;;False;999999;8888;1
+8c1b7e7e-f620-4d2a-b622-74a6b551ef30;CC;1019056955;30;False;;;0;1;2024-12-12;Femenino;indefinido;profesional;Bogota;1;Unipersonales;False;No;False;;No;No;No;D;No;No;No;No;No;No;Fijo;False;1000718;899999061DA0017;1
+6212804138281791;CC;53119373;39;True;13;13,31;;0;;Femenino;;;Bogota;3;Nucleares;False;No;False;;No;No;No;A;No;Si;No;No;No;No;;False;999999;8888;1
